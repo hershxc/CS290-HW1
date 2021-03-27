@@ -1,3 +1,3 @@
-# Welcome to GitHub Desktop!
+# Welcome to my CS290 HW1 repository!
 
-This README was created when I went through the Github Desktop tutorial. This repository is for CS290's HW1 assignment.
+This repository is for CS290's HW1 assignment.
